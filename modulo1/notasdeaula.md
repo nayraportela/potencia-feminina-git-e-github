@@ -6,3 +6,4 @@
 ### configuração git
 
 ### comandos
+git push --set-upstream origin modulo1/aula-1
